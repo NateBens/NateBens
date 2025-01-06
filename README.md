@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NateBens !
-- 👀 I’m interested in learning and growing my skills as a software developer
-- 🌱 I’m currently learning Reactjs, Entity Framework Core, C# and general web development
+- 👀 I'm a master of integrations, C languages, and Full-Stack Development
+- 🌱 I’m always looking to grow my skills and increase my ever growing skill set of technologies
 - 📫 Reach me in any way you deem appropriate,
 - Thank you!
 
